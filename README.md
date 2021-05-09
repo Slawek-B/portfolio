@@ -1,15 +1,16 @@
 # Portfolio<br>
 **About Me**<br>
 My name is Slawomir Balicki. I am a retailer. Currently, I am intensively learning manual testing of websites and applications. In practice, I actively participate in testing on the uTest platform. My goal is to get a job in this interesting profession.<br><br>
+____________________________________________________________________________________________________________________________________________________________________
 **Tools used in testing**<br>
- <head>Dev Tools<br>
+*Dev Tools<br>
 *Jira<br>
 *TestLink<br>
 *Bug Magnet<br>
 *Fiddler-everywhere<br>
 *HandBrake<br>
 *Vokoscreen<br>
-*Github<br><br></head>
+*Github<br><br>
 **Tech skills**<br>
 *MySQL<br>
 *HTML<br>
