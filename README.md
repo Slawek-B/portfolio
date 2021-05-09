@@ -11,11 +11,11 @@ My name is Slawomir Balicki. I am a retailer. Currently, I am intensively learni
 * Vokoscreen<br>
 * Github<br>
 ## Tech skills<br>
-*MySQL<br>
-*HTML<br>
-*CSS<br>
-*SCRUM<br>
-*Software testing<br>
-*Creating test cases<br>
-*Reporting bugs<br>
+* MySQL<br>
+* HTML<br>
+* CSS<br>
+* SCRUM<br>
+* Software testing<br>
+* Creating test cases<br>
+* Reporting bugs<br>
 
