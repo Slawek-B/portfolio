@@ -23,6 +23,7 @@ My name is Slawomir Balicki. I am a retailer. Currently, I am intensively learni
 * uTest Academy
 * Naucz się Scruma z Jira Software
 * Software Testing Mentor - Video - Jira Tutorial - Test Link Tutorial
+* Kurs Technik Informatyk (EE09) - Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych.
 ## Books
 * Waldemar Szafraniec - ABC Testowania Oprogramowania
 * R. Pawlak - Testowanie oprogramowania(during)
