@@ -18,4 +18,17 @@ My name is Slawomir Balicki. I am a retailer. Currently, I am intensively learni
 * Software testing<br>
 * Creating test cases<br>
 * Reporting bugs<br>
+## Courses
+* Waldemar Szafraniec - Szkolenie indywidualne - Tester manualny
+* uTest Academy
+* Naucz się Scruma z Jira Software
+* Software Testing Mentor - Video - Jira Tutorial - Test Link Tutorial
+## Books
+* Waldemar Szafraniec - ABC Testowania Oprogramowania
+* R. Pawlak - Testowanie oprogramowania(during)
+## [My Test Documentation](https://drive.google.com/drive/folders/1fXm2zMmf0hyaTwYueHCPY2Tsw_29vsSU?usp=sharing)
+* Bug Reports
+* Test Reports 
+* Test Cases
+
 
