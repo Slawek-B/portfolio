@@ -5,6 +5,7 @@ My name is Slawomir Balicki. I am a retailer. Currently, I am intensively learni
 * Dev Tools<br>
 * Jira<br>
 * TestLink<br>
+* [Postman](https://www.postman.com/slawek-b)
 * Bug Magnet<br>
 * Fiddler-everywhere<br>
 * HandBrake<br>
@@ -20,7 +21,7 @@ My name is Slawomir Balicki. I am a retailer. Currently, I am intensively learni
 * Reporting bugs<br>
 ## Courses
 * Waldemar Szafraniec - Szkolenie indywidualne - Tester manualny
-* uTest Academy
+* uTest Academy(17-Courses)
 * Naucz się Scruma z Jira Software
 * Software Testing Mentor - Video - Jira Tutorial - Test Link Tutorial
 * Kurs Technik Informatyk (EE09) - Programowanie, tworzenie i administrowanie stronami internetowymi i bazami danych.
